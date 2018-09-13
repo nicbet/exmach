@@ -1,6 +1,6 @@
 # Exmach
 
-Data Science From Scratch in `Elixir`. Modeled after the fantastic "Data Science [From Scratch" book written for the `Python` language by Joel Grus](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X), and adopted for Elixir. The code in this library can be used in your own `Elixir` machine learning and Data Science projects
+Data Science From Scratch in `Elixir`. Modeled after the fantastic [Data Science From Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X) book by Joel Grus, and adopted for Elixir. The code in this library can be used in your own `Elixir` machine learning and Data Science projects
 
 ## Installation
 
